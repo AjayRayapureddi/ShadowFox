@@ -18,6 +18,7 @@ This class creates a windowed application for managing inventory items. The main
 
   -> Add Item:     Allows the user to add a new item by specifying its name, 
                    quantity, and price.
+                   
   -> Update Item:   Enables the user to modify details of a selected item.
   -> Delete Item:   Allows the user to delete a selected item from the 
                     inventory.
