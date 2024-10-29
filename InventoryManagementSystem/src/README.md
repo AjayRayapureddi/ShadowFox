@@ -12,7 +12,7 @@ The project contains two main Java files:
      
 Features and Functionality :
 ----------------------------
-**InventoryManagementSystem.java**
+1. InventoryManagementSystem.java
 
 This class creates a windowed application for managing inventory items. The main features include:
 
@@ -32,7 +32,7 @@ Key Components:
     *Update button to save changes to an existing item.
     *Delete button to remove an item.
     
-**Item.java**
+2. Item.java
 This class defines the Item class, which models individual items in the inventory. It includes properties for:
 
   -> Name: Name of the item.
