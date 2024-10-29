@@ -20,10 +20,13 @@ This class creates a windowed application for managing inventory items. The main
                    quantity, and price.
                    
   -> Update Item:   Enables the user to modify details of a selected item.
+  
   -> Delete Item:   Allows the user to delete a selected item from the 
                     inventory.
+                    
   -> Table Display: Displays a list of items in a table format, with columns 
                     for item name, quantity, and price.
+
 Key Components:
 ---------------
 -> Table: Displays all items in the inventory, using JTable and DefaultTableModel.
