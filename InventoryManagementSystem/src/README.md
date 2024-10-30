@@ -1,4 +1,3 @@
-#AjayRayapureddi
 INVENTORY MANAGEMENT SYATEM
 ----------------------------
 This project is a simple Java-based Inventory Management System application with a graphical user interface (GUI) created using Swing. The system allows users to manage an inventory of items by adding, updating, and deleting entries.
@@ -40,8 +39,11 @@ Key Components:
 This class defines the Item class, which models individual items in the inventory. It includes properties for:
 
   -> Name: Name of the item. 
+  
   -> Quantity: Quantity of the item. 
+  
   -> Price: Price of the item.
+
 Each property has getter and setter methods, which use PropertyChangeSupport to notify listeners of any changes, allowing for future expandability of the system if tracking changes becomes necessary.
 
 How to Run the Project:
