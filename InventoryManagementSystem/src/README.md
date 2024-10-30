@@ -39,8 +39,8 @@ Key Components:
 2. Item.java
 This class defines the Item class, which models individual items in the inventory. It includes properties for:
 
-  -> Name: Name of the item.
-  -> Quantity: Quantity of the item.
+  -> Name: Name of the item. 
+  -> Quantity: Quantity of the item. 
   -> Price: Price of the item.
 Each property has getter and setter methods, which use PropertyChangeSupport to notify listeners of any changes, allowing for future expandability of the system if tracking changes becomes necessary.
 
